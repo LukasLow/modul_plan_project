@@ -4,8 +4,8 @@ from PyPDF2 import PdfReader, PdfWriter
 reader = PdfReader("ModuleDS007.pdf")
 outputs = {}
 
-if not os.path.exists("outputs"):
-    os.makedirs("outputs")
+if not os.path.exists("single_modules"):
+    os.makedirs("single_modules")
 
 for i in range(len(reader.pages)):
     page = reader.pages[i]
@@ -27,7 +27,7 @@ for unique, output in outputs.items():
         unique = unique.replace("_", " ")
         unique = "Modul " + unique.split("Modul")[1].strip()
         print(f"{unique} has {len(output.pages)} pages")
-        with open(f"outputs/{unique}.pdf", "wb") as f:
+        with open(f"single_modules/{unique}.pdf", "wb") as f:
             output.write(f)
     except Exception as e:
         print(f"Error creating PDF for {unique}: {e}")
