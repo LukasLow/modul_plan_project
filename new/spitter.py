@@ -10,7 +10,7 @@ pdf_reader = PdfReader(pdf_file)
 outputs = {}
 
 # Create a directory for the output files
-output_folder = "single_modules"
+output_folder = "single_Module"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
@@ -50,8 +50,8 @@ for unique, output in outputs.items():
         unique = "Modul " + unique.split("Modul")[1].strip()
         # Print the number of pages for this unique value
         print(f"{unique} has {len(output.pages)} pages")
-        # Write the PdfWriter for this unique value to a new file in the "single_modules" folder
-        with open(f"single_modules/{unique}.pdf", "wb") as f:
+        # Write the PdfWriter for this unique value to a new file in the "output_folder" 
+        with open(f"{output_folder}/{unique}.pdf", "wb") as f:
             output.write(f)
     except Exception as e:
         # Print any errors that occur while writing the PDF file
