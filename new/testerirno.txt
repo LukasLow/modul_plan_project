@@ -1,0 +1,166 @@
+B.WIWI-BWL.0001: Unternehmenssteuern I .............................................................................................12023
+B.WIWI-BWL.0002: Interne Unternehmensrechnung ...............................................................................12025
+B.WIWI-BWL.0003: Unternehmensführung und Organisation ..................................................................12027
+B.WIWI-BWL.0004: Produktion und Logistik ............................................................................................12029
+B.WIWI-BWL.0005: Marketing ...................................................................................................................12031
+B.WIWI-BWL.0006: Finanzmärkte und Bewertung ...................................................................................12033
+B.WIWI-BWL.0014: Rechnungslegung der Unternehmung ......................................................................12035
+B.WIWI-BWL.0016: Seminar zur Rechnungslegung und Wirtschaftsprüfung ...........................................12036
+B.WIWI-BWL.0017: Steuerliche Gewinnermittlung ...................................................................................12038
+B.WIWI-BWL.0021: Controlling mit SAP ...................................................................................................12040
+B.WIWI-BWL.0022: Wirtschaftsprüfung und Corporate Governance .......................................................12041
+B.WIWI-BWL.0023: Grundlagen der Versicherungstechnik ......................................................................12042
+B.WIWI-BWL.0024: Unternehmenssteuern II ............................................................................................12044
+B.WIWI-BWL.0027: Seminar Finanzcontrolling .........................................................................................12046
+B.WIWI-BWL.0028: Seminar in Finanzwirtschaft ......................................................................................12048
+B.WIWI-BWL.0029: Audit Go! - Projektseminar zur IT-gestützten Abschlussprüfung ..............................12050
+B.WIWI-BWL.0032: Seminar 'Ausgewählte Fragestellungen des Handelsmanagements' .......................12052
+B.WIWI-BWL.0035: Controlling und Unternehmenssteuerung .................................................................12054
+B.WIWI-BWL.0037: Produktionsmanagement ..........................................................................................12056
+B.WIWI-BWL.0038: Supply Chain Management .......................................................................................12058
+B.WIWI-BWL.0040: Handelsmanagement ................................................................................................12060
+B.WIWI-BWL.0051: Seminar Ausgewählte Probleme der Produktion und Logistik ..................................12062
+B.WIWI-BWL.0052: Logistics Management ..............................................................................................12064
+B.WIWI-BWL.0054: Organisationsgestaltung und Wandel .......................................................................12066
+B.WIWI-BWL.0055: Seminar Organisation ...............................................................................................12068
+B.WIWI-BWL.0059: Grundlagen der Marktforschung ...............................................................................12070
+B.WIWI-BWL.0060: Konsumentenverhalten .............................................................................................12072
+B.WIWI-BWL.0062: Ausgewählte Fragestellungen der Konsumentenforschung ......................................12073
+B.WIWI-BWL.0063: Entscheidungsorientiertes Controlling .......................................................................12075
+B.WIWI-BWL.0064: Ausgewählte Fragestellungen der Betriebswirtschaftslehre im BereichUnternehmensführung ...............................................................................................................................12077
+B.WIWI-BWL.0065: Ausgewählte Fragestellungen der Betriebswirtschaftslehre im Bereich Finanzen,Rechnungswesen und Steuern .................................................................................................................12079
+B.WIWI-BWL.0066: Ausgewählte Fragestellungen der Betriebswirtschaftslehre im Bereich Marketing und E-Business....................................................................................................................................................12081
+B.WIWI-BWL.0067: Ausgewählte Fragestellungen der Betriebswirtschaftslehre .....................................12083
+B.WIWI-BWL.0069: Marketing Performance Management .......................................................................12085
+B.WIWI-BWL.0071: Aktuelle Herausforderungen im Innovationsmanagement ........................................12087
+B.WIWI-BWL.0072: Unternehmensführung und Corporate Governance ..................................................12089
+B.WIWI-BWL.0073: Ausgewählte Probleme in Management und Controlling ..........................................12091
+B.WIWI-BWL.0074: Seminar 'Standort- und Objektentwicklung im Einzelhandel' ....................................12093
+B.WIWI-BWL.0077: Aktuelle Themen im Personalmanagement ..............................................................12095
+B.WIWI-BWL.0078: Global Virtual Project Management ..........................................................................12096
+B.WIWI-BWL.0079: Personalmanagement ...............................................................................................12097
+B.WIWI-BWL.0080: Konzernrechnungslegung .........................................................................................12098
+B.WIWI-BWL.0082: Seminar Corporate Valuation ....................................................................................12100
+B.WIWI-BWL.0084: Company Taxation in the European Union ...............................................................12101
+B.WIWI-BWL.0085: Seminar Empirische Methoden im Personalmanagement ........................................12103
+B.WIWI-BWL.0087: International Marketing ..............................................................................................12105
+B.WIWI-BWL.0088: International Business ...............................................................................................12107
+B.WIWI-BWL.0089: Corporate Financial Management .............................................................................12108
+B.WIWI-BWL.0090: Projektseminar: Gründungsmanagement ..................................................................12110
+B.WIWI-BWL.0093: Nachhaltigkeitsmanagement und -controlling ...........................................................12112
+B.WIWI-BWL.0096: Einführung in DATEV ................................................................................................12114
+B.WIWI-BWL.0097: Financial Intermediation ............................................................................................12115
+B.WIWI-BWL.0098: Entrepreneurship und Innovation ..............................................................................12117
+B.WIWI-BWL.0099: Entrepreneurial Projects ............................................................................................12119
+B.WIWI-BWL.0100: Grundlagen der Innovationsforschung ......................................................................12121
+B.WIWI-BWL.0101: Grundlegende Fragen der Entrepreneurship-Forschung ..........................................12123
+B.WIWI-EXP.0001: Einführung in die Betriebswirtschaftslehre und Entrepreneurship .............................12125
+B.WIWI-EXP.0002: Einführung in die Volkswirtschaftslehre .....................................................................1212mtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V28-WiSe22/23 Seite 12011-----------------------------------------
+B.WIWI-OPH.0001: Unternehmen und Märkte .........................................................................................12129
+B.WIWI-OPH.0002: Mathematik ................................................................................................................12131
+B.WIWI-OPH.0003: Informations- und Kommunikationssysteme .............................................................12133
+B.WIWI-OPH.0004: Einführung in die Finanzwirtschaft ............................................................................12136
+B.WIWI-OPH.0005: Jahresabschluss ........................................................................................................12138
+B.WIWI-OPH.0006: Statistik ......................................................................................................................12140
+B.WIWI-OPH.0007: Mikroökonomik I ........................................................................................................12142
+B.WIWI-OPH.0008: Makroökonomik I .......................................................................................................12145
+B.WIWI-OPH.0009: Recht .........................................................................................................................12147
+B.WIWI-OPH.0010: VWL in Aktion ...........................................................................................................12149
+B.WIWI-QMW.0001: Lineare Modelle .......................................................................................................12151
+B.WIWI-QMW.0004: Meta-Research in Economics ..................................................................................12153
+B.WIWI-QMW.0008: Praktikum Statistische Modellierung ........................................................................12155
+B.WIWI-QMW.0009: Seminar in Angewandter Ökonometrie ....................................................................12156
+B.WIWI-QMW.0010: DataScience4Entrepreneurs ....................................................................................12158
+B.WIWI-QMW.0011: Data Science: Statistik ............................................................................................12160
+B.WIWI-QMW.0012: Grundlagen Bayes und statistisches Lernen ...........................................................12162
+B.WIWI-SDS.0001: Introduction to Sustainable Development Studies I ..................................................12164
+B.WIWI-SDS.0002: Introduction to Sustainable Development Studies II .................................................12166
+B.WIWI-SDS.0003: Internationale Beziehungen und Entwicklungspolitik .................................................12168
+B.WIWI-SDS.0004: Qualitative Methoden für Sustainable Development Studies ....................................12170
+B.WIWI-SDS.0005: Praktikum im Globalen Süden ...................................................................................12171
+B.WIWI-SDS.0006: Feldforschung im Globalen Süden ............................................................................12173
+B.WIWI-SDS.0007: Sustainable Development Economics Seminar im SchwerpunktEntwicklungsökonomik ..............................................................................................................................12175
+B.WIWI-SDS.0008: Sustainable Development Economics Seminar im Schwerpunkt Globalisierung ......12177
+B.WIWI-SDS.0009: Sustainable Development Economics Seminar im Schwerpunkt Nachhaltigkeit .......12179
+B.WIWI-SDS.0010: Economics of Latin America ......................................................................................12181
+B.WIWI-SDS.0011: Economics of Africa ..................................................................................................12183
+B.WIWI-SDS.0012: Reflections of Sustainable Development Studies ......................................................12185
+B.WIWI-VWL.0001: Mikroökonomik II .......................................................................................................12187
+B.WIWI-VWL.0002: Makroökonomik II ......................................................................................................12189
+B.WIWI-VWL.0003: Einführung in die Wirtschaftspolitik ...........................................................................12191
+B.WIWI-VWL.0004: Einführung in die Finanzwissenschaft ......................................................................12193
+B.WIWI-VWL.0005: Grundlagen der internationalen Wirtschaftsbeziehungen .........................................12195
+B.WIWI-VWL.0006: Wachstum und Entwicklung ......................................................................................12197
+B.WIWI-VWL.0007: Einführung in die Ökonometrie .................................................................................12199
+B.WIWI-VWL.0008: Geldtheorie und Geldpolitik .......................................................................................12201
+B.WIWI-VWL.0009: Labor Economics ......................................................................................................12203
+B.WIWI-VWL.0010: Einführung in die Institutionenökonomik ...................................................................12205
+B.WIWI-VWL.0011: Finanz- und Steuerpolitik der EU ..............................................................................12207
+B.WIWI-VWL.0028: Einführung in die Spieltheorie ...................................................................................12209
+B.WIWI-VWL.0033: Europäische Sozialpolitik ..........................................................................................12211
+B.WIWI-VWL.0038: Ausgewählte Fragestellungen der Volkswirtschaftslehre ..........................................12213
+B.WIWI-VWL.0041: Einführung in die Entwicklungsökonomik ..................................................................12215
+B.WIWI-VWL.0044: Volkswirtschaftliches Seminar I ................................................................................12217
+B.WIWI-VWL.0045: Volkswirtschaftliches Seminar II ...............................................................................12219
+B.WIWI-VWL.0046: Volkswirtschaftliches Seminar III ..............................................................................12221
+B.WIWI-VWL.0059: Internationale Finanzmärkte ......................................................................................12223
+B.WIWI-VWL.0062: Einführung in die experimentelle Ökonomik .............................................................12225
+B.WIWI-VWL.0063: Geschichte des ökonomischen Denkens ..................................................................12227
+B.WIWI-VWL.0064: Experimentelle Wirtschaftsforschung ........................................................................12228
+B.WIWI-VWL.0065: Umweltökonomik .......................................................................................................12230
+B.WIWI-VWL.0066: Grundlagen der Regionalökonomik und Mittelstandsforschung ................................12232
+B.WIWI-VWL.0067: Model European Union .............................................................................................12234
+B.WIWI-VWL.0068: Economic Aspects of European Integration ..............................................................12235
+B.WIWI-VWL.0069: Urban Economics ......................................................................................................12237
+B.WIWI-VWL.0070: International Economic Policy ...................................................................................12239
+B.WIWI-VWL.0074: Indian Economic Development .................................................................................12241
+B.WIWI-VWL.0076: International Trade: Theory and Policy .....................................................................12243
+B.WIWI-VWL.0078: Introduction to Health Economics .............................................................................12245
+B.WIWI-VWL.0079: Application of Game Theory to Development Economics .........................................12247
+B.WIWI-VWL.0080: Economics of Monetary Union ..................................................................................12248
+B.WIWI-VWL.0081: Firms and Workers in International Markets .............................................................12250
+B.WIWI-VWL.0082: Ökonomische Perspektiven jenseits der Neoklassik ................................................12252
+B.WIWI-VWL.0083: Economics of Migration ............................................................................................12254
+B.WIWI-VWL.0084: Introduction to Global Health ....................................................................................12256
+B.WIWI-VWL.0085: Poor Economics ........................................................................................................12257
+B.WIWI-VWL.0086: Fridays for Sustainability: Verhaltensökonomische Aspekte zum Thema Umwelt undNachhaltigkeit ............................................................................................................................................12259
+B.WIWI-VWL.0087: Nachhaltige Gesundheitsversorgung: Verhaltensökonomische und -verhaltensethischeAspekte der Gesundheitsversorgung in rechtsstaatlichen Demokratien ...................................................12261
+B.WIWI-VWL.0088: Empirical Macroeconomics .......................................................................................12263
+B.WIWI-WB.0001: Wissenschaftliches Programmieren ............................................................................12265
+B.WIWI-WB.0003: Introduction to Stata ....................................................................................................12267
+B.WIWI-WB.0006: Kritische Ökonomik .....................................................................................................12269
+B.WIWI-WB.0008: LaTeX – Von den Grundlagen zur Erstellung von Abschlussarbeiten undPräsentationen ...........................................................................................................................................12270
+B.WIWI-WB.0009: Seminar zum interdisziplinären Arbeiten in der Ökonomie .........................................12272
+B.WIWI-WB.0011: Ausgewählte Fragestellungen der Wirtschaftswissenschaften ...................................12274
+B.WIWI-WB.0012: Einführung in das wissenschaftliche Arbeiten in der Volkswirtschaftslehre ................12276
+B.WIWI-WB.0013: Tätigkeit in der studentischen und akademischen Selbstverwaltung ..........................12278
+B.WIWI-WB.1000: Externes Praktikum .....................................................................................................12280
+B.WIWI-WIN.0001: Management der Informationssysteme ......................................................................12281
+B.WIWI-WIN.0002: Management der Informationswirtschaft ....................................................................12284
+B.WIWI-WIN.0003: Programmiersprache Java .........................................................................................12286
+B.WIWI-WIN.0004: Informationsverarbeitung in Dienstleistungsbetrieben ...............................................12288
+B.WIWI-WIN.0005: Projektseminar zur Systementwicklung - Entwicklung von Web-Applikationen .........12290
+B.WIWI-WIN.0006: SAP-Projektseminar ...................................................................................................12292
+B.WIWI-WIN.0007: SAP-Blockschulung ....................................................................................................12294
+B.WIWI-WIN.0010: Informationsverarbeitung in Industriebetrieben ..........................................................12295
+B.WIWI-WIN.0012: Internetbasierte Anwendungen im betrieblichen Umfeld ...........................................12297
+B.WIWI-WIN.0015: Geschäftsprozesse und Informationstechnologie ......................................................12299
+B.WIWI-WIN.0016: Mobile Business .........................................................................................................12301
+B.WIWI-WIN.0017: Business Intelligence .................................................................................................12303
+B.WIWI-WIN.0018: Anwendungssysteme in Industrieunternehmen .........................................................12304
+B.WIWI-WIN.0021: Modellierung betrieblicher Informationssysteme ........................................................12306
+B.WIWI-WIN.0022: Digital Business .........................................................................................................12308
+B.WIWI-WIN.0023: Projektseminar zur Systementwicklung - Entwicklung von mobilen Anwendungen ...12310
+B.WIWI-WIN.0027: Seminar zu Themen der Wirtschaftsinformatik und BWL ..........................................12312
+B.WIWI-WIN.0028: Projektmanagement ...................................................................................................12314
+B.WIWI-WIN.0029: Projektseminar zur Systementwicklung - Entwicklung von Anwendungen in heterogenenSystemlandschaften ..................................................................................................................................12315
+B.WIWI-WIN.0030: Management der Informationssicherheit ....................................................................12317
+B.WIWI-WIN.0032: Electronic Commerce .................................................................................................12319
+B.WIWI-WIN.0033: Management der digitalen Transformation - Unternehmensplanspiel .......................12320
+B.WIWI-WIN.0034: Methoden und Technologien zur Digitalisierung von Geschäftsprozessen in der DigitalenTransformation ...........................................................................................................................................12322
+B.WIWI-WIP.0001: Einführung in die Wirtschaftspädagogik .....................................................................12324
+B.WIWI-WIP.0005: Theorien des Lehrens und Lernens in der kaufmännischen Aus- und Weiterbildung 12326
+B.WIWI-WIP.0006: Schulentwicklung und allgemeine schulpraktische Studien und Schulpraktikum .......12328
+B.WIWI-WIP.0007: Forschungsmethoden .................................................................................................12330
+B.WIWI-WIP.0008: Entwicklungs- und Professionalisierungsprozesse in der beruflichen Bildung ...........12332
+B.WIWI-WIP.0009: Bildungsmanagement .................................................................................................12334

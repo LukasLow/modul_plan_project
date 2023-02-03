@@ -1,0 +1,1 @@
+# hier soll dann später mal die app rein die die gesamten einzelden steps besser verarbeitet und in eine datebank einlegen
