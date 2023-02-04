@@ -110,6 +110,36 @@ class PDFdata:
                     return module_version
             else:
                 return None
+            
+    def get_maxstudents(self):
+        for i in range(len(self.reader.pages)):
+            self.page = self.reader.pages[i]
+            text = self.page.extract_text()
+            if "Maximale Studierendenzahl" in text:
+                # Split the text at "Maximale Studierendenzahl:" and keep only the second part
+                maxstudents_text = text.split("Maximale Studierendenzahl:\n")[1].strip()
+                # Check if the text is a digit
+                if maxstudents_text.isdigit():
+                    maxstudents = int(maxstudents_text)
+                    return maxstudents
+                else:
+                    print("Could not parse Maximale Studierendenzahl.")
+                    return None    
+            elif "Self-study time:" in text:
+                # Split the text at "Self-study time:" and keep only the second part
+                text = text.split("Self-study time:")[1]
+                # Split the text again at the first space character
+                number_text = text.split(" ")[0]
+                # Try to convert the string to an integer
+                try:
+                    presence_time = int(number_text)
+                    return presence_time
+                except ValueError:
+                    print("Could not parse Self-study time.")
+                    return None
+        else:
+            print("Neither Präsenzzeit nor Self-study time found in the PDF")
+
 
                 
        
@@ -121,7 +151,7 @@ print("Präsenzzeit: " + str(pdf_data.get_presencetime()))
 print("Selbststudium: " + str(pdf_data.get_selfstudytime()))
 print("Credits: " + str(pdf_data.get_credits()))
 print("Version: " + str(pdf_data.get_version()))
-
+print("Maximale Studierendenzahl: " + str(pdf_data.get_maxstudents()))
 
 
 

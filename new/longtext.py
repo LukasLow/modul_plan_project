@@ -2,7 +2,7 @@
 from PyPDF2 import PdfReader
 
 # Set the file path of the PDF
-pdf_file_path = "single_Module/Modul B.WIWI-BWL.0004.pdf"
+pdf_file_path = "single_Module/Modul B.Inf.1206.pdf"
 
 # Read the PDF using the PdfReader
 reader = PdfReader(pdf_file_path)
