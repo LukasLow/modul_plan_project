@@ -13,3 +13,29 @@ This is my project to make the Moduleverzeichnis file in a clean Web interface t
 3. Setup the webapp
    1. load the datebase and present it on localhost/
    2. develop a structerd way of showing every module
+
+
+### The Information a want to extract from the pdf
+auf deutsch/english achten!!
+
+- [ ] Modulecode: B.Inf.1206
+- [ ] Modulename: Datenbanken
+- [ ] Credits: 5
+- [x] SWS: 4
+- [x] Präsenzzeit: 56
+- [x] Selbststudium: 94
+- [ ] Lernziele/Kompetenzen: ...
+- [ ] Lehrveranstalltungen: ... (ob eine oder mehere)
+- [ ] Prüfung: Klausur (120 Min.) oder mündliche Prüfung (ca. 20 Min.)
+- [ ] Prüfungsvorleistungen: ...
+- [ ] Prüfungsanforderungen: ...
+- [ ] Zugangsvoraussetzungen: ...
+- [ ] Empfohlene Vorkenntnisse: B.Inf.1101
+- [ ] Sprache: Deutsch
+- [ ] Modulverantwortliche[r]: Prof. Dr. Wolfgang May
+- [ ] Angebotshäufigkeit: jährlich
+- [ ] Dauer: 1 Semester
+- [ ] Wiederholbarkeit: zweimalig
+- [ ] Maximale Studierendenzahl: 100
+- [ ] Empfohlenes Fachsemester: (hier ist keins)
+- [ ] Version: 3
