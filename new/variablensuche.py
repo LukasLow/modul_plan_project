@@ -1,4 +1,5 @@
 from PyPDF2 import PdfReader
+import re
 
 
 class PDFdata:
@@ -118,24 +119,24 @@ class PDFdata:
             if "Maximale Studierendenzahl" in text:
                 # Split the text at "Maximale Studierendenzahl:" and keep only the second part
                 maxstudents_text = text.split("Maximale Studierendenzahl:\n")[1].strip()
-                # Check if the text is a digit
-                if maxstudents_text.isdigit():
-                    maxstudents = int(maxstudents_text)
+                # Search for the first number in the text
+                number = re.search(r'\d+', maxstudents_text)
+                if number:
+                    maxstudents = int(number.group())
                     return maxstudents
                 else:
                     print("Could not parse Maximale Studierendenzahl.")
-                    return None    
-            elif "Self-study time:" in text:
-                # Split the text at "Self-study time:" and keep only the second part
-                text = text.split("Self-study time:")[1]
-                # Split the text again at the first space character
-                number_text = text.split(" ")[0]
-                # Try to convert the string to an integer
-                try:
-                    presence_time = int(number_text)
-                    return presence_time
-                except ValueError:
-                    print("Could not parse Self-study time.")
+                    return None  
+            elif "Maximum number of students" in text:
+                # Split the text at "Maximum number of students:" and keep only the second part
+                maxstudents_text = text.split("Maximum number of students:\n")[1].strip()
+                # Search for the first number in the text
+                number = re.search(r'\d+', maxstudents_text)
+                if number:
+                    maxstudents = int(number.group())
+                    return maxstudents
+                else:
+                    print("Could not parse Maximum number of students.")
                     return None
         else:
             print("Neither Präsenzzeit nor Self-study time found in the PDF")
@@ -145,7 +146,7 @@ class PDFdata:
        
         
 print("------------------------")
-pdf_data = PDFdata("single_Module/Modul B.Inf.1206.pdf") 
+pdf_data = PDFdata("single_Module/Modul B.Inf.1204.pdf") 
 print("SWS: " + str(pdf_data.get_sws()))
 print("Präsenzzeit: " + str(pdf_data.get_presencetime()))
 print("Selbststudium: " + str(pdf_data.get_selfstudytime()))
