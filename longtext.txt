@@ -1,87 +1,60 @@
-Modul B.Inf.1247 - Version 1
+Modul B.Inf.1302 - Version 4
 Georg-August-Universität Göttingen
-Modul B.Inf.1247: Introduction to Information Retrieval and Natural
-Language Processing
-English title: Introduction to Information Retrieval and Natural Language Processing6 C
-4 SWS
+Modul B.Inf.1302: Biosignalverarbeitung
+English title: Bio-Signal Processing5 C
+3 SWS
 Lernziele/Kompetenzen:
-After successfully completing the course, students should be able to:
-•Summarize major IR and NLP applications
-•Explain important IR and NLP algorithms and data structures
-•Determine the conceptual requirements of specific IR and NLP problems
-•Compare the suitability of algorithms and data structures for specific tasks
-•Devise solutions for complex IR and NLP tasks by implementing and adapting
-suitable algorithms and data structures
-•Evaluate IR and NLP methods and systems quantitatively and qualitativelyArbeitsaufwand:
+Die Studierenden
+•beschreiben den Prozess der Biosignalverarbeitung in allen Schritten von der
+Signalaufnahme, Signaltransformation, Parameterschätzung und Klassifikation bis
+zur ärztlichen Auswertung.
+•können insbesondere die aus medizininformatischer Sicht relevanten Schritte
+ausführlich erläutern und gegenüber anderen Fachbereichen abgrenzen.
+•können die mathematischen Grundlagen der Biosignalverarbeitung
+zusammenfassen.
+•identifizieren und interpretieren Artefakte.
+•benutzen die erlernten Verfahren, um Biosignale mit Python zu verarbeiten.
+•überprüfen die praktisch erzielten Ergebnisse.
+•klassifizieren und beurteilen praktische Beispielfälle der Biosignalverarbeitung.
+•erläutern die Bedeutung der Biosignalverarbeitung in der medizinischen
+Versorgung, insbesondere in der Telemedizin und bei assistierenden
+Gesundheitstechnologien.Arbeitsaufwand:
 Präsenzzeit:
-56 Stunden
+42 Stunden
 Selbststudium:
-124 Stunden
-Lehrveranstaltung: Lecture Introduction to Information Retrieval and Natural
-Language Processing  (Vorlesung)
+108 Stunden
+Lehrveranstaltung: Biosignalverarbeitung  (Vorlesung, Übung, Seminar)
 Inhalte:
-The lecture will cover the following topics:
-•Basics: Background, Text Preprocessing, Documents, Terms, Vocabulary, Inverted
-Index
-•Boolean Retrieval, Positional Retrieval, Tolerant Retrieval
-•Efficient Index Construction, Index Compression
-•Term Weighting, Relevance Scoring, Ranked Retrieval
-•Semantic Text Analysis, Link Analysis
-•Complete Retrieval Systems
-•Results Visualization and Exploration
-•Evaluation of Retrieval Systems
-Please visit www.gipplab.org/teaching for details on this course.2 SWS
-Prüfung: Written test (90 min.) or oral exam (approx. 20 min.)
+Prozess, Standards und mathematische Methoden der Biosignalverarbeitung, Artefakte,
+Parameterschätzung, Telemedizin und assistierende Gesundheitstechnologien. Die
+Inhalte werden aktuellen Entwicklungen angepasst. Aktuelle Literaturempfehlungen
+werden zu Beginn des jeweiligen Semesters ausgegeben.
+Prüfung: Klausur bzw. E-Prüfung (90 Min.) oder mündliche Prüfung (ca. 25 Min.).
 Prüfungsvorleistungen:
-Successful completion of the examination in the practical course component of this
-module.
+Nachweis von mind. 50% erfolgreich gelösten Übungsaufgaben.5 C
 Prüfungsanforderungen:
-•Knowledge of major IR and NLP applications
-•Ability to explain important IR and NLP algorithms and data structures
-•Ability to analyze the conceptual requirements of specific IR and NLP problems
-•Ability to compare the suitability of algorithms and data structures for specific tasks
-•Ability to evaluate IR and NLP methods and systems quantitatively and
-qualitatively2 C
-Lehrveranstaltung: Practical Course Introduction to Information Retrieval and
-Natural Language Processing  (Laborpraktikum)
-Inhalte:2 SWS
-Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 10996Modul B.Inf.1247 - Version 1
-In the practical course, students work on applied research projects (teamwork is
-possible) that address complex information retrieval tasks. Using the programming
-language Python and presenting the intermediate and final results of the projects is
-mandatory.
-Please visit www.gipplab.org/teaching for details on this course.
-Prüfung: Präsentation (ca. 20 Minuten)
-Prüfungsvorleistungen:
-Successful completion of an applied research project including at least one intermediate
-milestone or presentation.
-Prüfungsanforderungen:
-•Ability to analyze the conceptual requirements of specific IR and NLP problems
-•Ability to compare the suitability of algorithms and data structures for specific tasks
-•Ability to determine the conceptual requirements of specific IR and NLP problems
-•Ability to devise solutions for complex IR and NLP tasks by implementing and
-adapting suitable algorithms
-•Ability to evaluate IR and NLP methods and systems quantitatively and
-qualitatively4 C
+In der Prüfung wird neben dem theoretischen Verständnis zentraler Begriffe
+und Methoden deren Auswahl, Einsatz und Überprüfung anhand von
+Fallbeispielen nachgewiesen. Lernziele werden zu jeder Lehreinheit ausgegeben.
+Prüfungsanforderungen werden in der Lehrveranstaltung durch geeignete
+Übungsaufgaben und/oder Repetitorien vermittelt. In Klausuren bzw. E-Prüfungen
+sind grundsätzlich offene Fragen in Textform zu bearbeiten, weitere Fragetypen (z. B.
+MC) sind in geringem Umfang möglich. Prüfungsanforderungen in Seminarvorträgen
+und Hausarbeiten sind einer schriftlichen Aufgabenstellung zu entnehmen,
+Bewertungskriterien werden zu Beginn des jeweiligen Semesters ausgegeben.
 Zugangsvoraussetzungen:
 keineEmpfohlene Vorkenntnisse:
-Knowledge of at least one object-oriented
-programming language, preferably Python, is
-required to complete the course. Python is used as
-part of the exercise sessions. For participants who
-are unfamiliar with Python, a fast-paced introduction
-into the essentials of the language will be provided.
-Sprache:
-EnglischModulverantwortliche[r]:
-Prof. Dr. Bela Gipp
+keine
+Sprache: Modulverantwortliche[r]:
+Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 11000Modul B.Inf.1302 - Version 4
+Deutsch Prof. Dr. rer. nat. Dagmar Krefting
+Prof. Dr. Ulrich Sax
 Angebotshäufigkeit:
-irregularDauer:
+jährlichDauer:
 1 Semester
 Wiederholbarkeit:
 zweimaligEmpfohlenes Fachsemester:
+3 - 6
 Maximale Studierendenzahl:
-30
-Bemerkungen:
-This course provides a good foundation for a bachelor's or master's thesis in our
-group. Visit www.gipplab.org/students-corner/graduation-projects for our current theses proposals.
-Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 10997
+50
+Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 11001

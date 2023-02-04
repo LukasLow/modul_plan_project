@@ -143,27 +143,31 @@ class PDFdata:
             
     def get_language(self):
         stop_words = ['Modul','Modul-Nr.','Modulnummer','ECTS','SWS','Präsenzzeit','Self-study time', "Person", "Modulverantwortliche"]
+        language = None
         for i in range(len(self.reader.pages)):
             self.page = self.reader.pages[i]
             text = self.page.extract_text().replace("\n", " ")
-            print (text)
-            if "Sprache" in text:
+            if "Sprache:" in text:
                 language = text.split("Sprache:")[1].strip()
                 for word in stop_words:
                     if word in language:
                         language = language.split(word)[0].strip()
                         break
-                return language
-            elif "Language" in text:
+                break
+            elif "Language:" in text:
                 language = text.split("Language:")[1].strip()
                 for word in stop_words:
                     if word in language:
                         language = language.split(word)[0].strip()
                         break
-                return language
+                break
+        if language:
+            return language
         else:
             print("Language & Sprache not found in the PDF")
             return None
+
+
 
 
 
@@ -171,7 +175,7 @@ class PDFdata:
        
         
 print("------------------------")
-pdf_data = PDFdata("single_Module/Modul B.Inf.1247.pdf") 
+pdf_data = PDFdata("single_Module/Modul B.Inf.1302.pdf") 
 print("SWS: " + str(pdf_data.get_sws()))
 print("Präsenzzeit: " + str(pdf_data.get_presencetime()))
 print("Selbststudium: " + str(pdf_data.get_selfstudytime()))
