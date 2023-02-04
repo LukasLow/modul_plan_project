@@ -1,7 +1,7 @@
 # Import the required library
-import os
+import os, sys
 from PyPDF2 import PdfReader, PdfWriter
-
+sys.stdout = open("output_print_splitter.txt", "w")
 # Define the path for the input PDF file
 pdf_file = "ModuleDS007.pdf"
 
@@ -24,17 +24,21 @@ for i in range(len(pdf_reader.pages)):
     if "Modul" in text:
         # Get the unique value after the word "Modul"
         unique = text.split("Modul")[1].strip()
+        print (unique + "\n\n")
+        # Get the first part of the unique value until the ":" or "-"
+        if " - " in unique:
+            unique = "Modul" + unique.split(" - ")[0].strip()
+        elif " : " in unique:
+            unique = "Modul" + unique.split(" : ")[0].strip()
         # Skip if the unique value contains the word "verzeichnis" or its length is greater than 80 characters
-        if "verzeichnis" in unique.lower() or len(unique) > 80:
+        if "verzeichnis" in unique.lower() or len(unique) > 120:
             continue
-        # Get the first part of the unique value until the "-"
-        unique = "Modul" + unique.split(" - ")[0].strip()
         # Replace "Module" with "Modul"
         unique = unique.replace("Module", "Modul")
         # Replace spaces with underscores
         unique = unique.replace(" ", "_")
         # Print the unique value
-        print(f"Unique value: {unique}")
+        print(f"Unique value: {unique}\n\n\n\n")
         # Create a new PdfWriter for this unique value if it doesn't already exist
         if unique not in outputs:
             outputs[unique] = PdfWriter()
@@ -56,3 +60,7 @@ for unique, output in outputs.items():
     except Exception as e:
         # Print any errors that occur while writing the PDF file
         print(f"Error creating PDF for {unique}: {e}")
+        
+        
+sys.stdout.close()
+sys.stdout = sys.__stdout__

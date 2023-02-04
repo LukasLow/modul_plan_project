@@ -9287,3 +9287,351 @@ Präsenzzeit: 56
 Credits: 6
 Selbststudium: 124
 
+File: Modul B.Inf.1231.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: None
+File: Modul B.Inf.1231.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 50
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.DH.35.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 11
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1351.pdf
+SWS: 5
+Präsenzzeit: 70
+Credits: 8
+Version: 4
+Maximale Studierendenzahl: None
+File: Modul B.Inf.1231.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 50
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.DH.35.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 11
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1351.pdf
+SWS: 5
+Präsenzzeit: 70
+Credits: 8
+Version: 4
+Maximale Studierendenzahl: None
+File: Modul B.Inf.1231.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 50
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.DH.35.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 11
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1351.pdf
+SWS: 5
+Präsenzzeit: 70
+Credits: 8
+Version: 4
+Maximale Studierendenzahl: 50
+Sprache: Deutsch
+Selbststudium: 170
+
+File: Modul B.DH.34.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Mat.0011.pdf
+SWS: 6
+Präsenzzeit: 84
+Credits: 9
+Version: 5
+Maximale Studierendenzahl: 12
+Sprache: Deutsch
+Selbststudium: 186
+
+File: Modul B.Phy.5623.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 5
+Maximale Studierendenzahl: 20
+Sprache: English, German
+Selbststudium: 124
+
+File: Modul B.Inf.1839.pdf
+SWS: 5
+Präsenzzeit: 7
+Credits: 6
+Version: 2
+Maximale Studierendenzahl: None
+Sprache: Deutsch, Englisch
+Selbststudium: 173
+
+File: Modul B.Phy.5811.pdf
+SWS: 3
+Präsenzzeit: 42
+Credits: 3
+Version: 4
+Maximale Studierendenzahl: 30
+Sprache: German, English
+Selbststudium: 48
+
+File: Modul B.Mat.0012.pdf
+SWS: 6
+Präsenzzeit: 84
+Credits: 9
+Version: 4
+Maximale Studierendenzahl: 11
+Sprache: Deutsch
+Selbststudium: 186
+
+File: Modul B.WIWI-WIN.0027.pdf
+SWS: 2
+Präsenzzeit: 28
+Credits: 6
+Version: 6
+Maximale Studierendenzahl: 30
+Sprache: Deutsch
+Selbststudium: 152
+
+File: Modul B.Bio-NF.125.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: None
+Version: 6
+Maximale Studierendenzahl: 15
+Sprache: Deutsch
+Selbststudium: 124
+
+File: Modul B.Inf.1237.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 100
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.WIWI-BWL.0068.pdf
+SWS: 3
+Präsenzzeit: 42
+Credits: 6
+Version: 1
+Maximale Studierendenzahl: 11
+Sprache: Deutsch
+Selbststudium: 138
+
+File: Modul B.DH.33.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: None
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Phy.5815.pdf
+SWS: 2
+Präsenzzeit: 28
+Credits: 4
+Version: 1
+Maximale Studierendenzahl: 20
+Sprache: Deutsch, Englisch
+Selbststudium: 92
+
+File: Modul B.WIWI-OPH.0004.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 6
+Maximale Studierendenzahl: 11
+Sprache: Deutsch
+Selbststudium: 124
+
+File: Modul B.DH.32.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1236.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 100
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.Bio-NF.118.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 7
+Maximale Studierendenzahl: 15
+Sprache: Deutsch
+Selbststudium: 124
+
+File: Modul B.Agr.0408.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 124
+
+File: Modul B.Phy.5625.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 4
+Maximale Studierendenzahl: 15
+Sprache: English, German
+Selbststudium: 124
+
+File: Modul B.DH.31.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1235.pdf
+SWS: 3
+Präsenzzeit: 42
+Credits: 5
+Version: 2
+Maximale Studierendenzahl: 50
+Sprache: Deutsch
+Selbststudium: 108
+
+File: Modul B.Inf.1209.pdf
+SWS: 3
+Präsenzzeit: 42
+Credits: 5
+Version: 3
+Maximale Studierendenzahl: 100
+Sprache: Deutsch
+Selbststudium: 108
+
+File: Modul B.WIWI-WIN.0021.pdf
+SWS: 2
+Präsenzzeit: 28
+Credits: 4
+Version: 6
+Maximale Studierendenzahl: 11
+Sprache: Deutsch
+Selbststudium: 92
+
+File: Modul B.Phy.8005.pdf
+SWS: 2
+Präsenzzeit: 28
+Credits: 4
+Version: 1
+Maximale Studierendenzahl: 20
+Sprache: Deutsch, Englisch
+Selbststudium: 92
+
+File: Modul B.Inf.2001.pdf
+SWS: 1
+Präsenzzeit: 14
+Credits: 5
+Version: 1
+Maximale Studierendenzahl: 50
+Sprache: Deutsch, Englisch
+Selbststudium: 436
+
+File: Modul B.DH.42.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.ÖSM.113.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 50
+Sprache: Deutsch
+Selbststudium: 124
+
+File: Modul M.WIWI-QMW.0002.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 9
+Maximale Studierendenzahl: 11
+Sprache: English
+Selbststudium: 124
+
+File: Modul B.Inf.1131.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 3
+Maximale Studierendenzahl: 100
+Sprache: Deutsch, Englisch
+Selbststudium: 124
+
+File: Modul B.DH.43.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 9
+Version: 1
+Maximale Studierendenzahl: 25
+Sprache: Deutsch, Englisch
+Selbststudium: 214
+
+File: Modul B.Inf.1247.pdf
+SWS: 4
+Präsenzzeit: 56
+Credits: 6
+Version: 1
+Maximale Studierendenzahl: 30

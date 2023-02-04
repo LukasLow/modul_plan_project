@@ -140,19 +140,45 @@ class PDFdata:
                     return None
         else:
             print("Neither Präsenzzeit nor Self-study time found in the PDF")
+            
+    def get_language(self):
+        stop_words = ['Modul','Modul-Nr.','Modulnummer','ECTS','SWS','Präsenzzeit','Self-study time', "Person", "Modulverantwortliche"]
+        for i in range(len(self.reader.pages)):
+            self.page = self.reader.pages[i]
+            text = self.page.extract_text().replace("\n", " ")
+            print (text)
+            if "Sprache" in text:
+                language = text.split("Sprache:")[1].strip()
+                for word in stop_words:
+                    if word in language:
+                        language = language.split(word)[0].strip()
+                        break
+                return language
+            elif "Language" in text:
+                language = text.split("Language:")[1].strip()
+                for word in stop_words:
+                    if word in language:
+                        language = language.split(word)[0].strip()
+                        break
+                return language
+        else:
+            print("Language & Sprache not found in the PDF")
+            return None
+
 
 
                 
        
         
 print("------------------------")
-pdf_data = PDFdata("single_Module/Modul B.Inf.1204.pdf") 
+pdf_data = PDFdata("single_Module/Modul B.Inf.1247.pdf") 
 print("SWS: " + str(pdf_data.get_sws()))
 print("Präsenzzeit: " + str(pdf_data.get_presencetime()))
 print("Selbststudium: " + str(pdf_data.get_selfstudytime()))
 print("Credits: " + str(pdf_data.get_credits()))
 print("Version: " + str(pdf_data.get_version()))
 print("Maximale Studierendenzahl: " + str(pdf_data.get_maxstudents()))
+print("Sprache: " + str(pdf_data.get_language()))
 
 
 

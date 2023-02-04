@@ -1,50 +1,87 @@
-Modul B.Inf.1206 - Version 3
+Modul B.Inf.1247 - Version 1
 Georg-August-Universität Göttingen
-Modul B.Inf.1206: Datenbanken
-English title: Databases5 C
+Modul B.Inf.1247: Introduction to Information Retrieval and Natural
+Language Processing
+English title: Introduction to Information Retrieval and Natural Language Processing6 C
 4 SWS
 Lernziele/Kompetenzen:
-Die Studierenden kennen die theoretischen Grundlagen sowie technischen Konzepte
-von Datenbanksystemen. Mit den erworbenen Kenntnissen in konzeptueller
-Modellierung und praktischen Grundkenntnissen in der am weitesten verbreiteten
-Anfragesprache "SQL" können sie einfache Datenbankprojekte durchführen. Sie wissen,
-welche grundlegende Funktionalität ihnen ein Datenbanksystem dabei bietet und
-können diese nutzen. Sie können sich ggf. auf der Basis dieser Kenntnisse mit Hilfe
-der üblichen Dokumentation in diesem Bereich selbständig weitergehend einarbeiten.
-Die Studierenden verstehen den Nutzen eines fundierten mathematisch-theoretischen
-Hintergrundes auch im Bereich praktischer Informatik.Arbeitsaufwand:
+After successfully completing the course, students should be able to:
+•Summarize major IR and NLP applications
+•Explain important IR and NLP algorithms and data structures
+•Determine the conceptual requirements of specific IR and NLP problems
+•Compare the suitability of algorithms and data structures for specific tasks
+•Devise solutions for complex IR and NLP tasks by implementing and adapting
+suitable algorithms and data structures
+•Evaluate IR and NLP methods and systems quantitatively and qualitativelyArbeitsaufwand:
 Präsenzzeit:
 56 Stunden
 Selbststudium:
-94 Stunden
-Lehrveranstaltung: Datenbanken  (Vorlesung, Übung)
+124 Stunden
+Lehrveranstaltung: Lecture Introduction to Information Retrieval and Natural
+Language Processing  (Vorlesung)
 Inhalte:
-Konzeptuelle Modellierung (ER-Modell), relationales Modell, relationale Algebra
-(als theoretische Grundlage der Anfragekonzepte), SQL-Anfragen, -Updates und
-Schemaerzeugung, Transaktionen, Normalisierungstheorie.
-Literatur: R. Elmasri, S.B. Navathe: Grundlagen von Datenbanksystemen - Ausgabe
-Grundstudium (dt. Übers.), Pearson Studium (nach Praxisrelevanz ausgewählte
-Themen).4 SWS
-Prüfung: Klausur (120 Min.) oder mündliche Prüfung (ca. 20 Min.) 5 C
+The lecture will cover the following topics:
+•Basics: Background, Text Preprocessing, Documents, Terms, Vocabulary, Inverted
+Index
+•Boolean Retrieval, Positional Retrieval, Tolerant Retrieval
+•Efficient Index Construction, Index Compression
+•Term Weighting, Relevance Scoring, Ranked Retrieval
+•Semantic Text Analysis, Link Analysis
+•Complete Retrieval Systems
+•Results Visualization and Exploration
+•Evaluation of Retrieval Systems
+Please visit www.gipplab.org/teaching for details on this course.2 SWS
+Prüfung: Written test (90 min.) or oral exam (approx. 20 min.)
+Prüfungsvorleistungen:
+Successful completion of the examination in the practical course component of this
+module.
 Prüfungsanforderungen:
-Nachweis über aufgebaute weiterführende Kompetenzen in den folgenden Bereichen:
-theoretische Grundlagen sowie technische Konzepte von Datenbanksystemen,
-konzeptuelle Modellierung und praktische Grundkenntnisse in der am weitesten
-verbreiteten Anfragesprache "SQL" in ihrer Anwendung auf einfache Datenbankprojekte,
-Nutzung grundlegender Funktionalitäten von Datenbanksystem, mathematisch-
-theoretischer Hintergründe in der praktischen Informatik. Fähigkeit, die vorstehenden
-Kompetenzen weiter zu vertiefen.
+•Knowledge of major IR and NLP applications
+•Ability to explain important IR and NLP algorithms and data structures
+•Ability to analyze the conceptual requirements of specific IR and NLP problems
+•Ability to compare the suitability of algorithms and data structures for specific tasks
+•Ability to evaluate IR and NLP methods and systems quantitatively and
+qualitatively2 C
+Lehrveranstaltung: Practical Course Introduction to Information Retrieval and
+Natural Language Processing  (Laborpraktikum)
+Inhalte:2 SWS
+Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 10996Modul B.Inf.1247 - Version 1
+In the practical course, students work on applied research projects (teamwork is
+possible) that address complex information retrieval tasks. Using the programming
+language Python and presenting the intermediate and final results of the projects is
+mandatory.
+Please visit www.gipplab.org/teaching for details on this course.
+Prüfung: Präsentation (ca. 20 Minuten)
+Prüfungsvorleistungen:
+Successful completion of an applied research project including at least one intermediate
+milestone or presentation.
+Prüfungsanforderungen:
+•Ability to analyze the conceptual requirements of specific IR and NLP problems
+•Ability to compare the suitability of algorithms and data structures for specific tasks
+•Ability to determine the conceptual requirements of specific IR and NLP problems
+•Ability to devise solutions for complex IR and NLP tasks by implementing and
+adapting suitable algorithms
+•Ability to evaluate IR and NLP methods and systems quantitatively and
+qualitatively4 C
 Zugangsvoraussetzungen:
 keineEmpfohlene Vorkenntnisse:
-B.Inf.1101
+Knowledge of at least one object-oriented
+programming language, preferably Python, is
+required to complete the course. Python is used as
+part of the exercise sessions. For participants who
+are unfamiliar with Python, a fast-paced introduction
+into the essentials of the language will be provided.
 Sprache:
-DeutschModulverantwortliche[r]:
-Prof. Dr. Wolfgang May
+EnglischModulverantwortliche[r]:
+Prof. Dr. Bela Gipp
 Angebotshäufigkeit:
-jährlichDauer:
+irregularDauer:
 1 Semester
 Wiederholbarkeit:
 zweimaligEmpfohlenes Fachsemester:
 Maximale Studierendenzahl:
-100
-Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 10985
+30
+Bemerkungen:
+This course provides a good foundation for a bachelor's or master's thesis in our
+group. Visit www.gipplab.org/students-corner/graduation-projects for our current theses proposals.
+Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 10997
