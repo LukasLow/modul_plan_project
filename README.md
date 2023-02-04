@@ -36,7 +36,7 @@ auf deutsch/english achten!!
 - [ ] Angebotshäufigkeit: jährlich
 - [ ] Dauer: 1 Semester
 - [ ] Wiederholbarkeit: zweimalig
-- [ ] Maximale Studierendenzahl: 100
+- [x] Maximale Studierendenzahl: 100
 - [ ] Empfohlenes Fachsemester: (hier ist keins)
 - [x] Version: 3
 
