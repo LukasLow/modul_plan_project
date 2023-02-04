@@ -1,0 +1,48 @@
+Modul B.WIWI-BWL.0004 - Version 8
+Georg-August-Universität Göttingen
+Modul B.WIWI-BWL.0004: Produktion und Logistik
+English title: Production and Logistics6 C
+4 SWS
+Lernziele/Kompetenzen:
+Die Studierenden
+•können Produktions- und Logistikprozesse in das betriebliche Umfeld einordnen,
+•können die Teilbereiche der Logistik differenzieren und charakterisieren,
+•kennen die Grundlagen der Produktionsprogrammplanung,
+•können mit Hilfe der linearen Optimierung Produktionsprogramm-
+planungsprobleme lösen und die Ergebnisse im betrieblichen Kontext
+interpretieren,
+•kennen die Grundlagen und Zielgrößen der Bestell- und Ablaufplanung,
+•kennen die Teilbereiche der Distributionslogistik und können diese differenziert in
+den logistischen Zusammenhang setzen,
+•können verschiedene Verfahren der Transport- und Standortplanung auf einfache
+Probleme anwenden.Arbeitsaufwand:
+Präsenzzeit:
+56 Stunden
+Selbststudium:
+124 Stunden
+Lehrveranstaltung: Produktion und Logistik  (Vorlesung)
+Inhalte:
+Die Vorlesung gibt einen Überblick über betriebliche Produktionsprozesse und zeigt
+die enge Verzahnung von Produktion und Logistik auf. Es werden Methoden und
+Planungsmodelle vorgestellt, mit denen betriebliche Abläufe effizient gestaltet werden
+können. Insbesondere wird dabei auf die Bereiche Produktions- und Kostentheorie,
+Produktionsprogrammplanung mit linearer Programmierung, Beschaffungs- und
+Produktionslogistik sowie Distributionslogistik eingegangen.2 SWS
+Lehrveranstaltung: Produktion und Logistik  (Tutorium)
+Inhalte:
+In den Tutorien werden dazu die Methodenanwendungen vermittelt, vor allem Simplex-
+Algorithmus, Gozinto-Graphen und Verfahren zur Bestellplanung, Ablaufplanung,
+Transport- und Standortplanung.2 SWS
+Prüfung: Klausur (90 Minuten) 6 C
+Prüfungsanforderungen:
+Die Studierenden weisen in der Modulprüfung Kenntnisse in den folgenden Bereichen
+nach:
+•Produktions- und Kostentheorie
+•Produktionsprogrammplanung
+•Bereitstellungsplanung/Beschaffungslogistik
+•Durchführungsplanung/Produktionslogistik
+•Distributionslogistik
+•Simulation und Visualisierung von Produktions- und Logistikprozessen
+•Anwendung grundlegender Algorithmen des Operations Research und der linearen
+Optimierung auf Probleme der oben genannten Bereiche.
+Amtliche Mitteilungen II der Georg-August-Universität Göttingen vom 11.10.2022/Nr. 9 V7-WiSe22/23 Seite 11070

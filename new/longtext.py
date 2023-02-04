@@ -2,13 +2,13 @@
 from PyPDF2 import PdfReader
 
 # Set the file path of the PDF
-pdf_file_path = "single_Module/Modul B.Agr.0375.pdf"
+pdf_file_path = "single_Module/Modul B.WIWI-BWL.0004.pdf"
 
 # Read the PDF using the PdfReader
 reader = PdfReader(pdf_file_path)
 
 # Open a new text file to write the contents of the PDF
-with open("single_Module/longtext.txt", "w") as f:
+with open("longtext.txt", "w") as f:
     # Loop through all pages in the PDF
     for i in range(len(reader.pages)):
         # Get the current page

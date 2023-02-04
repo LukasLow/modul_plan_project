@@ -86,8 +86,30 @@ class PDFdata:
                 return module_sws
         else:
             return None
-    get
-
+        
+    def get_credits(self):
+        for i in range(len(self.reader.pages)):
+            self.page = self.reader.pages[i]
+            text = self.page.extract_text()
+            if " C" in text:
+            # Überprüfe, ob das erste Zeichen vor "C" eine Zahl ist
+                if text.split(" C")[0].strip()[-1:].isdigit():
+                    module_credits = int(text.split(" C")[0].strip()[-1:])
+                    return module_credits
+            else:
+                return None
+    
+    def get_version(self):
+        for i in range(len(self.reader.pages)):
+            self.page = self.reader.pages[i]
+            text = self.page.extract_text()
+            if "Version " in text:
+            # Überprüfe, ob das erste Zeichen nach "Version" eine Zahl ist
+                if text.split("Version ")[1].strip()[:1].isdigit():
+                    module_version = int(text.split("Version ")[1].strip()[:1])
+                    return module_version
+            else:
+                return None
 
                 
        
@@ -97,6 +119,9 @@ pdf_data = PDFdata("single_Module/Modul B.Inf.1206.pdf")
 print("SWS: " + str(pdf_data.get_sws()))
 print("Präsenzzeit: " + str(pdf_data.get_presencetime()))
 print("Selbststudium: " + str(pdf_data.get_selfstudytime()))
+print("Credits: " + str(pdf_data.get_credits()))
+print("Version: " + str(pdf_data.get_version()))
+
 
 
 

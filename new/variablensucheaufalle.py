@@ -16,4 +16,5 @@ for pdfFile in os.listdir(folder):
         f.write("File: " + pdfFile + "\n")
         f.write("SWS: " + str(pdf_data.get_sws()) + "\n")
         f.write("Präsenzzeit: " + str(pdf_data.get_presencetime()) + "\n")
+        f.write("Credits: " + str(pdf_data.get_credits()) + "\n")
         f.write("Selbststudium: " + str(pdf_data.get_selfstudytime()) + "\n\n")

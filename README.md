@@ -20,7 +20,7 @@ auf deutsch/english achten!!
 
 - [ ] Modulecode: B.Inf.1206
 - [ ] Modulename: Datenbanken
-- [ ] Credits: 5
+- [x] Credits: 5
 - [x] SWS: 4
 - [x] Präsenzzeit: 56
 - [x] Selbststudium: 94
@@ -38,4 +38,8 @@ auf deutsch/english achten!!
 - [ ] Wiederholbarkeit: zweimalig
 - [ ] Maximale Studierendenzahl: 100
 - [ ] Empfohlenes Fachsemester: (hier ist keins)
-- [ ] Version: 3
+- [x] Version: 3
+
+
+
+danach ein check machen ob die daten stimmen mit 20% der modulen
